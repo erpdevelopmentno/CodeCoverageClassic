@@ -9,7 +9,7 @@
   "EULA": "https://www.erpdevelopment.no/eula",
   "help": "https://www.erpdevelopment.no/help",
   "url": "https://www.erpdevelopment.no",
-  "logo": ".logo/01profacto_green_blue_216px.jpg",
+  "logo": "src/logo/01profacto_green_blue_216px.jpg",
   "contextSensitiveHelpUrl": "https://www.erpdevelopment.no/help/context",
   "dependencies": [],
   "screenshots": [],
