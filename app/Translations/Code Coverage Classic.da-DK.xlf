@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="Code Coverage Classic.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3169414995 - Control 1117771840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hit Ratio %</source>
+          <target>Hit Rate %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Control HitRatio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3169414995 - Action 181504597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Code Coverage</source>
+          <target>Start Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Start Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3169414995 - Action 25967797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Code Coverage</source>
+          <target>Stop Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Stop Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3169414995 - Action 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490996238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Classic</source>
+          <target>Code Coverage Classic</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3169414995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Classic</source>
+          <target>Code Coverage Classic</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490996238 - Control 1117771840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hit Ratio %</source>
+          <target>Hit Rate %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Control HitRatio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490996238 - Action 181504597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Code Coverage</source>
+          <target>Start Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Start Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490996238 - Action 25967797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Code Coverage</source>
+          <target>Stop Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Stop Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2490996238 - Action 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target>Kode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

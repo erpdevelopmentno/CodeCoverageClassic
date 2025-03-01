@@ -1,0 +1,11 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}"        
+    ],
+    "al-test-runner.sendDebugTelemetry": false,
+    "cSpell.words": [
+        "ERPD"        
+    ]
+}

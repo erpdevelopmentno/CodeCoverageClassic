@@ -5,8 +5,8 @@
         "${UICop}",
         "${AppSourceCop}"
     ],
-    "al.ruleSetPath": "./.vscode/AppSourceCop.json",
     "al-test-runner.sendDebugTelemetry": false,
+    "al.ruleSetPath": "./.vscode/AppSourceCop.json",
     "cSpell.words": [
         "ERPD"        
     ]

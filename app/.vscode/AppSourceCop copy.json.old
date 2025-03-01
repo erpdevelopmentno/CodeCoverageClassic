@@ -1,0 +1,6 @@
+{
+    "publisherName": "ERP Development AS",
+    "mandatoryAffixes": ["ERPD"],
+    "supportedCountries": ["US", "NO", "DK"],
+    "targetRelease": "22.0"
+}

@@ -1,0 +1,10 @@
+{
+    
+    "name": "Code Coverage Classic",
+    "publisherName": "ERP Development AS",
+    "mandatoryAffixes": ["ERPD"],    
+    "mandatorySuffix": "Classic",
+    "mandatoryPrefix": "Code",
+    "supportedCountries": ["US", "NO", "DK"],
+    "targetRelease": "22.0"
+}
