@@ -1,5 +1,6 @@
 {
   "country": "us",
+  "type": "AppSource",
   "appFolders": ["Code Coverage Classic"],
   "testFolders": [],
   "bcptTestFolders": [],
