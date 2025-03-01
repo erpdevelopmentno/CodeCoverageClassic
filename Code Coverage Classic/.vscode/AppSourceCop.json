@@ -1,0 +1,20 @@
+{
+    "name": "AppSourceCop",
+    "description": "AppSourceCop rule set",
+    "rules": [
+        {
+            "id": "AS001",
+            "action": "Error"
+        },
+        {
+            "id": "AS002",
+            "action": "Error"
+        }
+    ],
+    "settings": {
+        "publisherName": "ERP Development AS",
+        "mandatoryAffixes": ["ERPD"],
+        "supportedCountries": ["US", "NO", "DK"],
+        "targetRelease": "22.0"
+    }
+}

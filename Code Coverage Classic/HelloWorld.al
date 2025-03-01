@@ -1,8 +1,4 @@
-// Welcome to your new AL extension.
-// Remember that object names and IDs should be unique across all extensions.
-// AL snippets start with t*, like tpageext - give them a try and happy coding!
-
-pageextension 72653575 CustomerListExt extends "Customer List"
+pageextension 72653575 "My CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin

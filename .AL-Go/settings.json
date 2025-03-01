@@ -9,5 +9,6 @@
           "from": 72653575,
           "to": 72653579
       }
-  ]
+  ],
+  "appSourceCopMandatoryAffixes": ["ERPD"]
 }
