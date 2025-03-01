@@ -1,6 +1,6 @@
 {
   "country": "us",
-  "appFolders": [],
+  "appFolders": ["Code Coverage Classic"],
   "testFolders": [],
   "bcptTestFolders": []
 }
