@@ -29,5 +29,7 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "applicationInsightsConnectionString": "InstrumentationKey=94ac16fc-26fc-4357-960e-f6c7d64732e0;IngestionEndpoint=https://norwayeast-0.in.applicationinsights.azure.com/;LiveEndpoint=https://norwayeast.livediagnostics.monitor.azure.com/;ApplicationId=64f655ca-6bad-4cfa-acbb-7cb30deb4ca7"
+
 }

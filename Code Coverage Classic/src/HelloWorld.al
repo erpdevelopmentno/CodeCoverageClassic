@@ -1,4 +1,4 @@
-pageextension 72653575 "My CustomerListExt" extends "Customer List"
+pageextension 72653575 "ERPD CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin
