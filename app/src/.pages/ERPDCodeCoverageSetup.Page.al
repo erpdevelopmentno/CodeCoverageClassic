@@ -17,7 +17,7 @@ page 72653577 "ERPD Code Coverage Setup"
                 field("Primary Key"; Rec."Primary Key")
                 {
                     ApplicationArea = All;
-                    ToolTip = 'Specifies the primary key for the setup.';
+                    ToolTip = 'Specifies the primary key for the setup';
                 }
             }
 
