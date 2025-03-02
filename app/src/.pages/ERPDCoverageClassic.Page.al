@@ -26,7 +26,7 @@ Page 72653576 "ERPD Coverage Classic"
                 {
                     ApplicationArea = All;
                     Caption = 'Hit Ratio %';
-                    ToolTip = 'The percentage of hits for this line';
+                    ToolTip = 'The percentage of hits for this line.';
                 }
             }
         }
