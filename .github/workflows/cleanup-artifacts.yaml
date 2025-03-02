@@ -1,0 +1,18 @@
+name: Cleanup Artifacts
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clear Artifacts Folder
+        run: |
+          if (Test-Path ".artifacts") {
+            Remove-Item -Recurse -Force ".artifacts"
+          }
+        shell: pwsh
