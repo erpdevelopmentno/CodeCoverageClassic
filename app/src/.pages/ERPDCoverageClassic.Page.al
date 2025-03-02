@@ -90,6 +90,21 @@ Page 72653576 "ERPD Coverage Classic"
                     Page.Run(Page::"ERPD Code Classic", CodeCoverage);
                 end;
             }
+            action(Setup)
+            {
+                ApplicationArea = All;
+                Caption = 'Setup';
+                Image = Setup;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                ToolTip = 'Open the code coverage setup page';
+
+                trigger OnAction()
+                begin
+                    Page.Run(Page::"ERPD Code Coverage Setup");
+                end;
+            }
         }
     }
 
