@@ -3,5 +3,5 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
   "templateSha": "0518c00023a7c84818c1a59f58df346f64003fdb",   
   "appBuild": 24,
-  "artifact": "//*/sandbox/latest"
+  "artifact": "https://bcartifacts.azureedge.net/sandbox/24.3.16268.0/us"
 }
