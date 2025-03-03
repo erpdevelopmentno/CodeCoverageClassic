@@ -12,18 +12,7 @@ page 72653577 "ERPD Code Coverage Setup"
         {
             group(General)
             {
-                Caption = 'General';
-
-                field("Primary Key"; Rec."Primary Key")
-                {
-                    ApplicationArea = All;
-                    ToolTip = 'Specifies the primary key for the setup';
-                }
-            }
-
-            group(Styles)
-            {
-                Caption = 'Style Settings';
+                Caption = 'General Settings';
 
                 field("Style Objects"; Rec."Style Objects")
                 {
