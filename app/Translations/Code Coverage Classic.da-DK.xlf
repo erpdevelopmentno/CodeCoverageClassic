@@ -3,69 +3,359 @@
   <file datatype="xml" source-language="en-US" target-language="da-DK" original="Code Coverage Classic.g.xlf">
     <body>
       <group id="body">
-        <trans-unit id="Page 3169414995 - Control 1117771840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Hit Ratio %</source>
-          <target>Hit Rate %</target>
+        <trans-unit id="Table 4157194447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ERP Code Coverage Setup</source>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Control HitRatio - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3169414995 - Action 181504597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Start Code Coverage</source>
-          <target>Start Code Coverage</target>
+        <trans-unit id="Table 4157194447 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>[NAB: SUGGESTION]Primærnøgle</target>
+          <target>[NAB: SUGGESTION]Primær nøgle</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Start Code Coverage - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Field Primary Key - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3169414995 - Action 25967797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Stop Code Coverage</source>
-          <target>Stop Code Coverage</target>
+        <trans-unit id="Table 4157194447 - Field 4118725017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Style Code hit</source>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Stop Code Coverage - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Field Style Code hit - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3169414995 - Action 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Code</source>
-          <target>Kode</target>
+        <trans-unit id="Table 4157194447 - Field 4057674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Style Code no hit</source>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Action Code - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Field Style Code no hit - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2490996238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 4157194447 - Field 582602722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Style Functions</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Field Style Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4157194447 - Field 3723254987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Style Objects</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ERV Code Coverage Setup - Field Style Objects - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code Coverage Classic</source>
-          <target>Code Coverage Classic</target>
+          <target>[NAB: SUGGESTION]Code Coverage Classic</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3169414995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2147479708 - Control 1735507514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line of code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line number in the object</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Control 158172202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of line</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control Line Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Control 495416724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of times the line was executed</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control No. of Hits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Control 3711240756 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID of the object</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control Object ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2147479708 - Control 1085746399 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type of object</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Classic - Control Object Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ERP Code Coverage Setup</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Settings</source>
+          <target>[NAB: SUGGESTION]Generelle indstillinger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Control 4118725017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style for code that was hit during coverage.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Control Style Code hit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Control 4057674 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style for code that was not hit during coverage.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Control Style Code no hit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Control 582602722 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style for functions.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Control Style Functions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4157194447 - Control 3723254987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the style for objects.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Code Coverage Setup - Control Style Objects - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code Coverage Classic</source>
-          <target>Code Coverage Classic</target>
+          <target>[NAB: SUGGESTION]Code Coverage Classic</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Coverage Classic ERPD - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2490996238 - Control 1117771840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2212973325 - Control 1117771840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The percentage of hits for this line.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Control HitRatio - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Control 1117771840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Hit Ratio %</source>
-          <target>Hit Rate %</target>
+          <target>[NAB: SUGGESTION]Hit Rate %</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Control HitRatio - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Control HitRatio - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2490996238 - Action 181504597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Start Code Coverage</source>
-          <target>Start Code Coverage</target>
+        <trans-unit id="Page 2212973325 - Control 1735507514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The line of code</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Control Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Control 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line</source>
+          <target>[NAB: SUGGESTION]Linje</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Start Code Coverage - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Control Line - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2490996238 - Action 25967797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Stop Code Coverage</source>
-          <target>Stop Code Coverage</target>
+        <trans-unit id="Page 2212973325 - Action 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the code coverage details</source>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Stop Code Coverage - Property Caption</note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Code - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 2490996238 - Action 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2212973325 - Action 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
-          <target>Kode</target>
+          <target>[NAB: SUGGESTION]Kode</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page CC Code Classic ERPD - Action Code - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 1514883969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the code coverage setup page</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 1514883969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target>[NAB: SUGGESTION]Opsætning</target>
+          <target>[NAB: SUGGESTION]Konfigurer</target>
+          <target>[NAB: SUGGESTION]Konfiguration</target>
+          <target>[NAB: SUGGESTION]Opsæt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 181504597 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start the code coverage</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Start Code Coverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 181504597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Code Coverage</source>
+          <target>[NAB: SUGGESTION]Start Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Start Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 25967797 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop the code coverage and show the results</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Stop Code Coverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2212973325 - Action 25967797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Code Coverage</source>
+          <target>[NAB: SUGGESTION]Stop Code Coverage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ERV Coverage Classic - Action Stop Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 2792882736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ambiguous</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Ambiguous - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 919421214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AmbiguousAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue AmbiguousAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1351826026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attention</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Attention - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 821543844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AttentionAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue AttentionAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1842024162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorable</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Favorable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 782920908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FavorableAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue FavorableAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 2672704373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard</source>
+          <target>[NAB: SUGGESTION]Standard</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Suggested translation inserted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Standard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1674860615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StandardAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue StandardAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 891678869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Strong</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Strong - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1391056551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StrongAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue StrongAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1372092334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StrongSubtle</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue StrongSubtle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 2132554080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StrongSubtleAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue StrongSubtleAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 2463722134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subordinate</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Subordinate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 1314024984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SubordinateAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue SubordinateAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 3131131531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtle</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Subtle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 5941777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SubtleAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue SubtleAccent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 2997326431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unfavorable</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue Unfavorable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3041727802 - EnumValue 109944829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UnfavorableAccent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ERV Code Coverage Styles - EnumValue UnfavorableAccent - Property Caption</note>
         </trans-unit>
       </group>
     </body>

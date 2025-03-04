@@ -10,22 +10,22 @@ table 72653577 "ERV Code Coverage Setup"
             Caption = 'Primary Key';
             DataClassification = CustomerContent;
         }
-        field(5; "Style Objects"; Enum "ERPD Code Coverage Styles")
+        field(5; "Style Objects"; Enum "ERV Code Coverage Styles")
         {
             Caption = 'Style Objects';
             DataClassification = CustomerContent;
         }
-        field(6; "Style Functions"; Enum "ERPD Code Coverage Styles")
+        field(6; "Style Functions"; Enum "ERV Code Coverage Styles")
         {
             Caption = 'Style Functions';
             DataClassification = CustomerContent;
         }
-        field(7; "Style Code hit"; Enum "ERPD Code Coverage Styles")
+        field(7; "Style Code hit"; Enum "ERV Code Coverage Styles")
         {
             Caption = 'Style Code hit';
             DataClassification = CustomerContent;
         }
-        field(8; "Style Code no hit"; Enum "ERPD Code Coverage Styles")
+        field(8; "Style Code no hit"; Enum "ERV Code Coverage Styles")
         {
             Caption = 'Style Code no hit';
             DataClassification = CustomerContent;

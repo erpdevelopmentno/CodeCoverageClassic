@@ -1,4 +1,4 @@
-enum 72653576 "ERPD Code Coverage Styles"
+enum 72653576 "ERV Code Coverage Styles"
 {
     Extensible = true;
 
