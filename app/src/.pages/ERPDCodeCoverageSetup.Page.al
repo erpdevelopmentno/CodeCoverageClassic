@@ -1,9 +1,9 @@
-page 72653577 "ERPD Code Coverage Setup"
+page 72653577 "ERV Code Coverage Setup"
 {
     ApplicationArea = All;
     Caption = 'ERP Code Coverage Setup';
     PageType = Card;
-    SourceTable = "ERPD Code Coverage Setup";
+    SourceTable = "ERV Code Coverage Setup";
     UsageCategory = Administration;
 
     layout

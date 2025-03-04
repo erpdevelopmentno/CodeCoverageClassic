@@ -1,4 +1,4 @@
-table 72653577 "ERPD Code Coverage Setup"
+table 72653577 "ERV Code Coverage Setup"
 {
     Caption = 'ERP Code Coverage Setup';
     DataClassification = CustomerContent;

@@ -1,4 +1,4 @@
-Page 72653576 "ERPD Coverage Classic"
+Page 72653576 "ERV Coverage Classic"
 {
     ApplicationArea = All;
     DeleteAllowed = false;
@@ -87,7 +87,7 @@ Page 72653576 "ERPD Coverage Classic"
                     CodeCoverage := Rec;
                     CodeCoverage.SetRecfilter();
                     CodeCoverage.SetRange("Line No.");
-                    Page.Run(Page::"ERPD Code Classic", CodeCoverage);
+                    Page.Run(Page::"ERV Code Classic", CodeCoverage);
                 end;
             }
             action(Setup)
@@ -102,7 +102,7 @@ Page 72653576 "ERPD Coverage Classic"
 
                 trigger OnAction()
                 begin
-                    Page.Run(Page::"ERPD Code Coverage Setup");
+                    Page.Run(Page::"ERV Code Coverage Setup");
                 end;
             }
         }

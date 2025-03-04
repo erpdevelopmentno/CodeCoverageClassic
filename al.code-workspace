@@ -5,6 +5,21 @@
     },
     {
       "path": ".AL-Go"
+    },
+    {
+      "path": ".github"
+    },
+    {
+      "path": ".alpackages"
+    },
+    {
+      "path": ".git"
+    },
+    {
+      "path": ".snapshots"
+    },
+    {
+      "path": ".vscode"
     }
   ],
   "settings": {}

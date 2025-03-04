@@ -1,4 +1,4 @@
-Page 72653575 "ERPD Code Classic"
+Page 72653575 "ERV Code Classic"
 {
     ApplicationArea = All;
     UsageCategory = Lists;

@@ -1,4 +1,4 @@
-codeunit 72653578 "ERPD Coverage Setup Install"
+codeunit 72653578 "ERV Coverage Setup Install"
 {
     trigger OnRun()
     begin
@@ -12,7 +12,7 @@ codeunit 72653578 "ERPD Coverage Setup Install"
 
     procedure ShowSetupPage()
     var
-        ERPDCodeCoverageSetup: Record "ERPD Code Coverage Setup";
+        ERPDCodeCoverageSetup: Record "ERV Code Coverage Setup";
     begin
         if not ERPDCodeCoverageSetup.Get() then begin
             ERPDCodeCoverageSetup.Init();
@@ -23,6 +23,6 @@ codeunit 72653578 "ERPD Coverage Setup Install"
             ERPDCodeCoverageSetup."Style Code no hit" := "ERPD Code Coverage Styles"::Standard;  // Value 0
             ERPDCodeCoverageSetup.Insert();
         end;
-        Page.Run(Page::"ERPD Code Coverage Setup");
+        Page.Run(Page::"ERV Code Coverage Setup");
     end;
 }
