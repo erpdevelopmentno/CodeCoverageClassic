@@ -1,6 +1,6 @@
-table 72653577 "ERV Code Coverage Setup"
+table 72653578 "ERPD Code Coverage Setup"
 {
-    Caption = 'Code Coverage Setup';
+    Caption = 'Code Coverage Setup Discontinued';
     DataClassification = CustomerContent;
 
     fields
