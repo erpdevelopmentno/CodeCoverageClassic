@@ -67,7 +67,7 @@ Page 72653575 "ERV Code Classic"
 
         case true of
             Rec."Line Type" = Rec."line type"::Object:
-                LineStyle := Format(ErvCodeCoverageSetup."Style Objects");
+                LineStyle := Format(ErvCodeCoverageSetup."Style Objects");   //GetStyle(2);
             Rec."Line Type" = Rec."line type"::"Trigger/Function":
                 LineStyle := Format(ErvCodeCoverageSetup."Style Functions"); //GetStyle(2);
             (Rec."Line Type" = Rec."line type"::Code) and (Rec."No. of Hits" > 0):
