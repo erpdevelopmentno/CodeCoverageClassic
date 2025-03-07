@@ -4,6 +4,13 @@ codeunit 72653578 "ERV Coverage Setup Install"
     begin
     end;
 
+
+    [EventSubscriber(ObjectType::Page, Page::"Extension Management", 'OnAfterActionEvent', 'SetupApp', true, true)]
+    local procedure MyProcedure()
+    begin
+        ShowSetupPage();
+    end;
+
     [EventSubscriber(ObjectType::Page, Page::"Extension Installation", 'OnOpenPageEvent', '', false, false)]
     local procedure HandleExtensionSetup()
     begin
