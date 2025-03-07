@@ -67,14 +67,20 @@ Page 72653575 "ERV Code Classic"
 
         case true of
             Rec."Line Type" = Rec."line type"::Object:
-                LineStyle := GetStyle(2);
+                LineStyle := Format(ErvCodeCoverageSetup."Style Objects");
             Rec."Line Type" = Rec."line type"::"Trigger/Function":
-                LineStyle := GetStyle(2);
+                LineStyle := Format(ErvCodeCoverageSetup."Style Functions"); //GetStyle(2);
             (Rec."Line Type" = Rec."line type"::Code) and (Rec."No. of Hits" > 0):
-                LineStyle := GetStyle(7);
+                LineStyle := Format(ErvCodeCoverageSetup."Style Code hit");  //GetStyle(7);
             else
-                LineStyle := GetStyle(0);
+                LineStyle := Format(ErvCodeCoverageSetup."Style Code no hit"); //GetStyle(0);
         end;
+    end;
+
+    trigger OnOpenPage()
+    begin
+        ErvCodeCoverageSetup.Get();
+
     end;
 
     internal procedure GetStyle(StyleValue: Integer): Text[50]
@@ -120,5 +126,6 @@ Page 72653575 "ERV Code Classic"
     end;
 
     var
+        ErvCodeCoverageSetup: Record "ERV Code Coverage Setup";
         LineStyle: Text;
 }
