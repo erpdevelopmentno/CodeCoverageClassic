@@ -5,6 +5,9 @@
   "appBuild": 24,
   "artifact": "https://bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/24.5.23489.30906/us",
   "DeployToProduction": {
-    "continuousDeployment": false
+    "continuousDeployment": false,
+    "EnvironmentType": "SaaS",
+    "EnvironmentName": "Production",
+    "Scope": "Production"
   }
 }
