@@ -10,5 +10,11 @@
           "to": 72653579
       }
   ],
-  "appSourceCopMandatoryAffixes": ["ERV"]
+  "appSourceCopMandatoryAffixes": ["ERV"],
+  "DeployToProduction": {
+    "continuousDeployment": false,
+    "EnvironmentType": "SaaS",
+    "EnvironmentName": "Production",
+    "Scope": "Production"
+}
 }
