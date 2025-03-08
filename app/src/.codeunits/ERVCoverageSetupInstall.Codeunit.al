@@ -17,5 +17,8 @@ codeunit 72653579 "ERV Coverage Setup Install"
             Enum::"Video Category"::Uncategorized,
             ''
         );
+        GuidedExperience.CompleteAssistedSetup(ObjectType::Page, Page::"ERV Code Coverage Setup");
+            
+        );
     end;
 }
