@@ -20,7 +20,7 @@ Page 72653575 "ERV Code Classic"
                 {
                     ApplicationArea = All;
                     StyleExpr = LineStyle;
-                    ToolTip = 'Number of times the line was executed';
+                    ToolTip = 'Number of times the line was executed.';
                 }
                 field("Line No."; Rec."Line No.")
                 {
