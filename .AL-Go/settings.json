@@ -15,6 +15,6 @@
     "continuousDeployment": false,
     "EnvironmentType": "SaaS",
     "EnvironmentName": "Production",
-    "Scope": "Production"
+    "Scope": "PTE"
 }
 }
