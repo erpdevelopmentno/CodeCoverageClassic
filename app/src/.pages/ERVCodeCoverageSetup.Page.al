@@ -17,7 +17,7 @@ page 72653577 "ERV Code Coverage Setup"
                 field("Style Objects"; Rec."Style Objects")
                 {
                     ApplicationArea = All;
-                    ToolTip = 'Specifies the style for objects.';
+                    ToolTip = 'Specifies the style for objects';
                 }
                 field("Style Functions"; Rec."Style Functions")
                 {
